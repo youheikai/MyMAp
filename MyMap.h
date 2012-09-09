@@ -41,7 +41,7 @@ class MapData {
 public:
 	// コンストラクタ
 	MapData() {
-		key = NULL; // ★newしたこれがたまたま0になっててみたいなのってない？
+		key = NULL;
 		type_dat = NULL;
 		back = NULL;
 		next = NULL;
